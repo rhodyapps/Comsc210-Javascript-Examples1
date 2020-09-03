@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Variables</h2>
+
+<p>In this example, x, y, and z are variables decalared using the var instruction.</p>
+
+<p id="demoVar"></p>
+<p id="demoLet"></p>
+<p id="demoConst"></p>
+
+<script>
+
+/*
+The 2015 version of JavaScript (ES6 - ECMAScript 2015) allows the 
+use of the const keyword to define a variable that cannot be reassigned, 
+and the let keyword to define a variable with restricted scope.
+*/
+
+// note: Javascript uses the = symbol as the assignment operator
+
+var x = 5;
+var y = 6;
+var z = x + y;
+
+let k = 100;
+let l = 200;
+let m = k + l;
+
+const a = 3;
+const b = 5;
+const c = a + b;
+
+document.getElementById("demoVar").innerHTML =
+"Using 'var' variables: The value of x + y is: " + z;
+
+document.getElementById("demoLet").innerHTML =
+"Using 'let' variables: The value of k + l is: " + m;
+
+document.getElementById("demoConst").innerHTML =
+"Using 'const' variables: The value of a + b is: " + c;
+
+</script>
+
+</body>
+</html>

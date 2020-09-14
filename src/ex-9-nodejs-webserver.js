@@ -4,7 +4,7 @@
 // at the command line (terminal Prompt) type in:
 // node ex-9-nodejs-webserver.js
 
-// Open a browser and browe to the server at the address:
+// Open a browser and browse to the server at the address:
 // http://127.0.0.1:3000
 
 

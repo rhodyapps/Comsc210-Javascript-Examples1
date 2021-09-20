@@ -7,7 +7,8 @@ you can clone the repo and change the origin to point to a new repo under your g
 
 Introduction to Javascript 
 1. Clone this repository to your machine
-   - Click on the green 'code' button. Open in Github Desktop
+   - Click on the green 'code' button. Open in Github Desktop 
+   - or use 'Git Clone <url>' in the VS Code Terminal to clone the repo
    - Check the local path points to your folder Documents/Github/Comsc230/Assignments
    - Once you have the local path pointing to where you want, click on 'clone'
 2. Open in VS Code and start a new Terminal

@@ -1,4 +1,4 @@
-# Comsc230-Javascript-Examples1
+# Comsc210-Javascript-Examples1
 
 This repository contains examples that help you learn about javascript and node.js.
 You can clone this repo and run the different examples by opening them in your browser or 
